@@ -1,1 +1,1 @@
-https://.ivanivtodorov.github.io
+https://ivanivtodorov.github.io
